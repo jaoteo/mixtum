@@ -68,7 +68,7 @@ renormalised and not-renormalised), pre-JL and post-JL angle, f3 admixture test.
 the total number of populations involved (columns in XYZ.geno). Then it computes f-statistics for a 3-way model.
 The outcomes are in the '*.dat' files.
 
-==CAVEAT==: These are Fortran codes and therefore need to be compiled to get an executable.
+CAVEAT: These are Fortran codes and therefore need to be compiled to get an executable.
 Command line: 
 
 -     gfortran -o MixtuM-* MixtuM-*.f      (GNU Fortran, Windows & Linux. It gives MixtuM-*.exe)
