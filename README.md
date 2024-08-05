@@ -10,8 +10,6 @@ and  alpha: mixing proportion.
 AA, C1 and C2 are vectors (arrays) whose components are allele frequencies.
 b. 3-way: AA = alpha * C1+beta * C2+(1-alpha-beta) * C3.
 
-4. 3-way: AA=alpha*C1+beta*C2+(1-alpha-beta)*C3.
-
 Codes are in Fortran. They have been compiled with Intel Fortran (Windows) and 
 GNU Fortran (Linux and Windows).
 A Python/GUI versión is in progress at
