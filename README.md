@@ -17,7 +17,7 @@ GNU Fortran (Linux and Windows).
 A Python/GUI versión is in progress at
 https://github.com/jmcastelo
 
-The dataset input is the Eigenformat Triad: XYZ.geno, XYZ,ind, XYZ.snp.
+The dataset input is the *Eigenformat Triad*: XYZ.geno, XYZ,ind, XYZ.snp.
 All the 3 files XYZ are ascii. The two later ones can be inspected on the display
 whereas the visualization of the former one depends on the text editor capacity. 
 
