@@ -14,7 +14,7 @@ AA, C1 and C2 are vectors (arrays) whose components are allele frequencies.
 
 Codes are in Fortran. They have been compiled with Intel Fortran (Windows) and 
 GNU Fortran (Linux and Windows).
-A Python/GUI versión is in progress at
+A Python/GUI versión by J.M. Castelo is in progress at
 https://github.com/jmcastelo
 
 The dataset input is the *Eigenformat Triad*: XYZ.geno, XYZ,ind, XYZ.snp.
