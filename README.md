@@ -5,10 +5,10 @@ The *f*-formalism [1] is used following the geometric interpretation
 in [2,3] to estimate the proportions and other indicators.
 
 Schematically:
-1. 2-way: AA=alpha*C1+(1-alpha)*C2,
-where AA: Hybrid, C1 & C2: Contributors, 
+a. 2-way: AA=alpha * C1+(1-alpha) * C2, where AA: Hybrid, C1 & C2: Contributors, 
 and  alpha: mixing proportion.
 AA, C1 and C2 are vectors (arrays) whose components are allele frequencies.
+b. 3-way: AA = alpha * C1+beta * C2+(1-alpha-beta) * C3.
 
 4. 3-way: AA=alpha*C1+beta*C2+(1-alpha-beta)*C3.
 
