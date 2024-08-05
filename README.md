@@ -29,12 +29,12 @@ one per line. This driver file is provided by the user.
 
 There are 4 Fortran codes:
 
-1. **MixtuM-whatPops.f**: reads the first line in 'selectedPopulations.dat' to get the label XYZ. 
+1. **Mixtum-whatPops.f**: reads the first line in 'selectedPopulations.dat' to get the label XYZ. 
 Then, it reads XYZ.ind and tells what are the populations inside, 
 as well as the number of individuals in each one, and also the number of SNPs in XYZ.snp.
 Outcomes are in XYZ-popula-number.dat.
 
-2. **MixtuM-allele-frequencies.f**: reads the first line in 'selectedPopulations.dat' to get XYZ. 
+2. **Mixtum-allele-frequencies.f**: reads the first line in 'selectedPopulations.dat' to get XYZ. 
 Next, it reads the label of the populations, one in each line.
 The outcome of the code is in the file  XYZ-allele-frequencies.dat, with the names of each 
 population heading the allele frequencies in columns (one per population). Every line is a SNP. 
@@ -50,7 +50,7 @@ model under escrutiny. The second and third populations (columns) correspond to
 Parental-1 and Parental-2, respectively. In a 3-way model, the fourth column is interpreted as Parental-3.
 The remaining populations (columns) are allele frequencies of the Auxiliary Populations. 
 
-3. **MixtuM-2way.f**: reads selectedPopulations.dat to ascertain the dataset label XYZ and to count 
+3. **Mixtum-2way.f**: reads selectedPopulations.dat to ascertain the dataset label XYZ and to count 
 the total number of populations involved (columns in XYZ.geno). Then it computes f-statistics for a 2-way model.
 The outcomes are in the following three files:
 
@@ -64,7 +64,7 @@ renormalised and not-renormalised), pre-JL and post-JL angle, f3 admixture test.
 
 3C. **Mixtum-f4-alphas-OK.dat**: alpha estimates via the f4-ratio that fall in the range [0,1].
 
-4. **MixtuM-3way**: reads selectedPopulations.dat to ascertain the dataset label XYZ and to count 
+4. **Mixtum-3way**: reads selectedPopulations.dat to ascertain the dataset label XYZ and to count 
 the total number of populations involved (columns in XYZ.geno). Then it computes f-statistics for a 3-way model.
 The outcomes are in the '*.dat' files.
 
