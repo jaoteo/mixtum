@@ -66,7 +66,7 @@ renormalised and not-renormalised), pre-JL and post-JL angle, f3 admixture test.
 
 4. **MixtuM-3way**: reads selectedPopulations.dat to ascertain the dataset label XYZ and to count 
 the total number of populations involved (columns in XYZ.geno). Then it computes f-statistics for a 3-way model.
-The outcomes are in the '*.dat' files:  ..........
+The outcomes are in the '*.dat' files.
 
 CAVEAT: These are Fortran codes and therefore need to be compiled to get an executable.
 Command line: 
