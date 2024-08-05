@@ -82,7 +82,8 @@ July, 2024
 
 [1]: Patterson N, Moorjani P, Luo Y, Mallick S, Rohland N, Zhan Y,
 Genschoreck T, Webster T, Reich D. 2012. 'Ancient admixture
-in human history'. GENETICS. 192:1065–93
+in human history'. GENETICS. 192:1065–93. 
+https://academic.oup.com/genetics/article/192/3/1065/5935193
 
 [2]: Oteo JA, Oteo-García G. 2024. 'The geometry of admixture in population genetics:
 the blessing of dimensionality'. GENETICS (to be published)
