@@ -84,7 +84,7 @@ July, 2024
 Genschoreck T, Webster T, Reich D. 2012. 'Ancient admixture
 in human history'. GENETICS. 192:1065–93
 
-[2]: Oteo JA, Oteo-García G. 2024?. 'The geometry of admixture in population genetics:
+[2]: Oteo JA, Oteo-García G. 2024. 'The geometry of admixture in population genetics:
 the blessing of dimensionality'. GENETICS (to be published)
 
 [3]: Oteo-García G, Oteo JA. 2021. 'A Geometrical Framework for
