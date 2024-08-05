@@ -89,4 +89,5 @@ https://academic.oup.com/genetics/article/192/3/1065/5935193
 the blessing of dimensionality'. GENETICS (to be published)
 
 [3]: Oteo-García G, Oteo JA. 2021. 'A Geometrical Framework for
-f-Statistics'. Bulletin of Mathematical Biology. 83:14
+f-Statistics'. Bulletin of Mathematical Biology. 83:14.
+https://link.springer.com/article/10.1007/s11538-020-00850-8
