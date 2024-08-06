@@ -71,7 +71,7 @@ The outcomes are in the '*.dat' files.
 CAVEAT: These are Fortran codes and therefore need to be compiled to get an executable.
 Command line: 
 
--     gfortran -o MixtuM-* MixtuM-*.f      (GNU Fortran, Windows & Linux. It gives MixtuM-*.exe)
+-     gfortran -o MixtuM-* MixtuM-*.f      (GNU Fortran, Windows & Linux. It gives Mixtum-*.exe)
 -     ifort MixtuM-*.f                     (Intel Fortran, Windows. It gives Mixtum-*.exe)
          
 Source code files contain further details/comments about the codes. 
