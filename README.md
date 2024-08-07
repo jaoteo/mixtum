@@ -76,7 +76,7 @@ Command line:
 -     gfortran -o MixtuM-* MixtuM-*.f      (GNU Fortran, Windows & Linux. It gives Mixtum-*.exe)
 -     ifort MixtuM-*.f                     (Intel Fortran, Windows. It gives Mixtum-*.exe)
          
-Source code files contain further details/comments about the codes. 
+Source code files contain further details/comments. 
 
 oteo@uv.es, 
 JA Oteo, Departament de Fisica Teorica, Universitat de Valencia, Spain.
