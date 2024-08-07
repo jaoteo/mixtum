@@ -80,7 +80,7 @@ oteo@uv.es,
 JA Oteo, Departament de Fisica Teorica, Universitat de Valencia, Spain.
 July, 2024
 
-[1]: Patterson N, Moorjani P, Luo Y, Mallick S, Rohland N, Zhan Y,
+[1]. Patterson N, Moorjani P, Luo Y, Mallick S, Rohland N, Zhan Y,
 Genschoreck T, Webster T, Reich D. 2012. 'Ancient admixture
 in human history'. GENETICS. 192:1065–93. 
 https://academic.oup.com/genetics/article/192/3/1065/5935193
