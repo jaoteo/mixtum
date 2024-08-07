@@ -1,6 +1,6 @@
 # Mixtum
-The goal of these Fortran codes is to estimate, from SNP data, the admixture proportion 
-in which a 2-way or 3-way population admixture process took place. 
+The goal of these Fortran codes is to estimate, from a dataset of Single Nucleotide Polymorfirms, 
+the admixture proportion(s) in which a 2-way or 3-way population admixture process took place. 
 The *f*-formalism [1] is used following the geometric interpretation
 in [2,3] to estimate the proportions and other indicators.
 
