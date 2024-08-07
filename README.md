@@ -62,7 +62,7 @@ This file is intended to plot the outcomes.  A summary of results is at bottom:
 admixture model,SNPs, Auxiliary pairs, proportions (f4-ratio mean, pre-JL and post-JL, 
 renormalised and not-renormalised), pre-JL and post-JL angle, f3 admixture test.
 
-3B. **Mixtum-out-Brief.dat**: Summary of results. It is incremental (all runs are added).
+3B. **Mixtum-out-Brief.dat**: Summary of results. It is incremental (all runs are incremental).
 
 3C. **Mixtum-f4-alphas-OK.dat**: alpha estimates via the f4-ratio that fall in the range [0,1].
 
