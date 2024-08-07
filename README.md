@@ -26,9 +26,9 @@ XYZ is the label of the Triad and is read by the codes in the first line of the 
 AA, C1 and C2 (and eventually C3), in the 2-way (eventually 3-way) case.
 All the subsequent lines are the labels of the Auxiliary populations to be used, 
 one per line. This driver file is provided by the user. 
-The zip file contains all *.dat files, including an instance of the triad  
-(truncated to 10.000 SNPs) and an user provided 'selectedPopulations.dat' file.
-'v37.2.1240K_HumanOrigins_unzip-TRIAL.zip' contains the full dataset [4].
+The file 'DATfile.zip' contains all *.dat files (outcomes) and an instance 
+of 'selectedPopulations.dat' file. An instance of the triad [4]
+(truncated to 20.000 SNPs) is in 'v37.2.1240K_HumanOrigins_unzip-TRIAL.zip'.
 
 There are 4 Fortran codes:
 
