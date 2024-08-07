@@ -80,7 +80,7 @@ oteo@uv.es,
 JA Oteo, Departament de Fisica Teorica, Universitat de Valencia, Spain.
 July, 2024
 
-[1]. Patterson N, Moorjani P, Luo Y, Mallick S, Rohland N, Zhan Y,
+[1]: Patterson N, Moorjani P, Luo Y, Mallick S, Rohland N, Zhan Y,
 Genschoreck T, Webster T, Reich D. 2012. 'Ancient admixture
 in human history'. GENETICS. 192:1065–93. 
 https://academic.oup.com/genetics/article/192/3/1065/5935193
@@ -91,3 +91,7 @@ the blessing of dimensionality'. GENETICS (to be published)
 [3]: Oteo-García G, Oteo JA. 2021. 'A Geometrical Framework for
 f-Statistics'. Bulletin of Mathematical Biology. 83:14.
 https://link.springer.com/article/10.1007/s11538-020-00850-8
+
+[4]: 1000 Genomes Consortium. 2015. 'A global reference for human
+genetic variation'. Nature. 526:68–74.
+https://doi.org/10.1038/nature15393
