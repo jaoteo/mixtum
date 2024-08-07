@@ -17,7 +17,7 @@ GNU Fortran (Linux and Windows).
 A Python/GUI versión by J.M. Castelo is in progress at
 https://github.com/jmcastelo
 
-The dataset input is the *Eigenformat Triad*: XYZ.geno, XYZ,ind, XYZ.snp.
+The input dataset is the *Eigenformat Triad*: XYZ.geno, XYZ,ind, XYZ.snp.
 All the 3 files XYZ are ascii. The two later ones can be inspected on the display
 whereas the visualization of the former one depends on the text editor capacity. 
 
@@ -26,6 +26,8 @@ XYZ is the label of the Triad and is read by the codes in the first line of the 
 AA, C1 and C2 (and eventually C3), in the 2-way (eventually 3-way) case.
 All the subsequent lines are the labels of the Auxiliary populations to be used, 
 one per line. This driver file is provided by the user. 
+The zip file contains all *.dat files, including an instance of the triad [4] 
+(truncated to 10.000 SNPs) and the selectedPopulations.dat file.
 
 There are 4 Fortran codes:
 
@@ -75,7 +77,7 @@ Command line:
 -     ifort MixtuM-*.f                     (Intel Fortran, Windows. It gives Mixtum-*.exe)
          
 Source code files contain further details/comments about the codes. 
-
+-------------------------------------
 oteo@uv.es, 
 JA Oteo, Departament de Fisica Teorica, Universitat de Valencia, Spain.
 July, 2024
